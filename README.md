@@ -1,6 +1,6 @@
 # A voxel game demo, made with Godot 3.2
 License: code: LGPL-2.1, media: CC0  
-A good place to start if you want to make a game like this :)  
+A good place to start if you want to make a 3d voxel game:)  
 
 |Controls:|Key|
 |------|---|
